@@ -1,1 +1,2 @@
-")
+list.pop()
+print(list)
