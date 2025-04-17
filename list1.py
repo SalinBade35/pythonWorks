@@ -90,4 +90,12 @@ print(list)
 
 #sorted works for all strings, tuple, list, set, frozen set and so on 
 #but the sort have the no ability to work with strings
+
+l1 = [1,2,3]
+l2 = [5,6]
+
+print(l1)
+l1.extend(l2)
+print(l1)
+print(l2)
  
